@@ -5,7 +5,7 @@ const portfolioData = {
     subtitle: "BEng (Hons) in Software Engineer",
     university: "ESoft Metro Campus",
     email: "ilhamempire101@gmail.com",
-    phone: "+94 76 940 2001",
+    phone: "+94 75 213 6383",
     linkedin: "https://www.linkedin.com/in/ilham-mohamed-8696331b8/",
     github: "https://github.com/Ilhamempire180",
     location: "Sri Lanka",
@@ -20,7 +20,7 @@ const portfolioData = {
       description: "Strong foundation in software development and computer networking with hands-on experience in building applications, debugging, and deploying systems."
     },
     {
-      institution: "BCAS, Sri Lanka",
+      institution: "BCAS Campus, Sri Lanka",
       degree: "Higher National Diploma in Software Engineering",
       period: "2019 - 2021",
       description: "Enhanced English communication, grammar, and professional writing skills."
@@ -58,33 +58,34 @@ const portfolioData = {
   projects: [
     {
  
-  title: "Train Booking Tracking System",
+  title: "Train Ticket Booking System",
   description: "A full-stack web application designed to digitize train ticket booking and tracking. The system enables passengers to register, search, and book trains online, while conductors can manage train schedules and passenger details efficiently. It enhances data accuracy, reduces manual errors, and streamlines the overall booking process.",
   technologies: ["HTML", "CSS", "JavaScript", "Bootstrap", "PHP", "MySQL"],
   github: "https://github.com/Ilhamempire180/Ticket-Booking-System",
   category: "Full Stack"
 
 
-    },
-    {
-      title: "E-bus Tracking System",
-      description: "Real-time bus tracking system with GPS integration and Google Maps API for enhanced user experience.",
-      technologies: ["Flutter", "Firebase", "Google API"],
-      github: "https://github.com/SLMRukais99/e_bus_tracker",
-      category: "Mobile"
-    },
+    },{
+  title: "Personal Portfolio Website",
+  description: "A responsive personal portfolio website showcasing my projects, skills, and experience. Built with modern web technologies to provide smooth navigation, interactive animations, and a clean design for presenting professional information effectively.",
+  technologies: ["HTML", "CSS", "JavaScript", "React", "Bootstrap"],
+  github: "https://github.com/Ilhamempire180/Portfolio",
+  category: "Frontend"
+}
+
+,
     {
       title: "CRUD Application",
       description: "Dynamic React application with full Create, Read, Update, and Delete functionality.",
       technologies: ["React"],
-      github: "https://github.com/SLMRukais99/CrudApp",
+      github: "",
       category: "Web App"
     },
     {
       title: "Weather App",
       description: "Responsive weather application displaying real-time data via API integration.",
       technologies: ["React", "Weather API"],
-      github: "https://github.com/SLMRukais99/WeatherApp",
+      github: "",
       category: "Web App"
     }
   ],

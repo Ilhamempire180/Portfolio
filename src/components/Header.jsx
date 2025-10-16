@@ -19,7 +19,7 @@ const navLinks = [
   { label: "Experience", icon: <Briefcase size={18} />, href: "#experience" },
   { label: "Skills", icon: <Star size={18} />, href: "#skills" },
   { label: "Projects", icon: <BookOpen size={18} />, href: "#projects" },
-  { label: "Publications", icon: <FileText size={18} />, href: "#publications" },
+ // { label: "Publications", icon: <FileText size={18} />, href: "#publications" },
   { label: "Contact Me", icon: <Mail size={18} />, href: "#contact" },
 ];
 

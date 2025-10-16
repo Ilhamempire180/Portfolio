@@ -5,18 +5,19 @@ import { Briefcase, Calendar, Award, MapPin, FolderOpen } from "lucide-react";
 const portfolioData = {
   experience: [
     {
-      company: "Intervest Software Technologies (Private) Limited",
-      position:"Software Engineer Internship",
-      period: "Feb 2024 - Aug 2024",
-      location: "Colombo 05, Sri Lanka",
-      projects: ["Staysure 1.5", "Avanti Travel Insurance"],
+      company: "CloudTech Solutions",
+      position:"Software Engineer ",
+      period: "2023 - 2025",
+      location: "UAE",
+      projects: [ "Ecommerce Website"],
       achievements: [
-        "Worked on projects for UK-based companies",
-        "Developed RESTful APIs and integrated backend functionality",
-        "Gained experience with WordPress and Magnolia CMS",
-        "Used Jira for project tracking and Confluence for collaboration",
-        "Applied Agile methodologies in development processes",
-        "Created responsive user interfaces with React"
+          "Developed a full-stack E-commerce web application using the MERN stack (MongoDB, Express.js, React, Node.js)",
+  "Implemented JWT-based authentication and role-based access control for secure user management",
+  "Created RESTful APIs for product, cart, and order management with Express.js and MongoDB",
+  "Designed a dynamic and responsive frontend using React and Bootstrap for enhanced user experience",
+  "Integrated Stripe payment gateway for seamless online transactions",
+  "Applied Redux for efficient state management across the application",
+  "Followed Agile development practices and used Git for version control"
       ]
     }
   ]
