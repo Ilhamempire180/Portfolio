@@ -5,7 +5,7 @@ const portfolioData = {
     subtitle: "BEng (Hons) in Software Engineer",
     university: "ESoft Metro Campus",
     email: "ilhamempire101@gmail.com",
-    phone: "+94 75 213 6383",
+    phone: "+971545640201",
     linkedin: "https://www.linkedin.com/in/ilham-mohamed-8696331b8/",
     github: "https://github.com/Ilhamempire180",
     location: "Sri Lanka",
@@ -24,12 +24,6 @@ const portfolioData = {
       degree: "Higher National Diploma in Software Engineering",
       period: "2019 - 2021",
       description: "Enhanced English communication, grammar, and professional writing skills."
-    },
-    {
-      institution: "Zahira College Kalmunai",
-      degree: "GCE Advanced Level (Physical Science Stream)",
-      period: "Jan 2016 - Aug 2017",
-      description: "Studied Mathematics, Physics, and Chemistry with leadership experience as school prefect."
     }
   ],
   experience: [
