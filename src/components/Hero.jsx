@@ -234,7 +234,7 @@ const Hero = () => {
                 <Mail size={20} /> Contact Me
               </a>
               <a
-                href="/Ilham_Resume.pdf"
+                href="/ilham_resume.pdf"
                 download
                 className="btn download-gradient-btn d-flex align-items-center gap-2 px-4"
                 style={{

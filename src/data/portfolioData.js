@@ -8,7 +8,7 @@ const portfolioData = {
     phone: "+971545640201",
     linkedin: "https://www.linkedin.com/in/ilham-mohamed-8696331b8/",
     github: "https://github.com/Ilhamempire180",
-    location: "Sri Lanka",
+    location: "UAE",
     description: "Passionate software engineer with expertise in full-stack development, specializing in modern web technologies and innovative solutions."
   },
   education: [
